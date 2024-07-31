@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding ,gaming ,creating
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me you can cintact me via my email 12.vatsal09@gmail.com
+- 📫 How to reach me you can contact me via my email 12.vatsal09@gmail.com
 - 😄 Pronouns: 
 - ⚡ Fun fact: ...
 
