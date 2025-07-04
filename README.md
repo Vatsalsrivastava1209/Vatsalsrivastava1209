@@ -40,14 +40,9 @@ Power BI DAX, Marketing Analytics Case Studies, & Python Automation Projects.
 ---
 
 ### 📈 GitHub Stats
-
-## 📈 GitHub Stats
-
-![Vatsal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vatsalsrivastava1209&show_icons=true&theme=dark&hide_title=false&count_private=true)
-
+![Vatsal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vatsalsrivastava1209&show_icons=true&theme=dark&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vatsalsrivastava1209&layout=compact&theme=dark)
-
-
+![GitHub Streak](https://streak-stats.demolab.com?user=Vatsalsrivastava1209&theme=dark)
 
 ---
 
