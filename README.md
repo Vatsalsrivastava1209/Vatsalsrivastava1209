@@ -1,4 +1,4 @@
-<h1 align="center"> Hi, I'm Vatsal Srivastava</h1>
+<h1 align="center"> Hey there, I'm Vatsal </h1>
 <p align="center">
   📊 Data Analyst specializing in Python, SQL, and Power BI <br>
   Turning raw data into actionable insights and compelling dashboards 
@@ -12,10 +12,18 @@ A data analyst with a passion for solving real-world business problems in financ
 
 ---
 
-### 🧰 Tech Stack
+### 🧠 Currently Exploring
+Power BI DAX, Marketing Analytics Case Studies, & Python Automation Projects.
+--- 
 
-**Languages & Tools:**  
-`Python` | `SQL` | `Pandas` | `NumPy` | `Matplotlib` | `Seaborn` | `Plotly` | `Power BI` | `Tableau` | `Jupyter Notebook` | `Excel`
+### 🧰 Tech Stack
+**Languages & Tools:**
+
+- 🐍 Python (Pandas, NumPy, Matplotlib, Seaborn)
+- 🧮 SQL (MySQL, SQLite)
+- 📊 Power BI, Tableau
+- 📓 Jupyter Notebook
+- 📈 Plotly, Excel
 
 ---
 
@@ -33,20 +41,25 @@ A data analyst with a passion for solving real-world business problems in financ
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vatsalsrivastava1209&show_icons=true&theme=github_dark&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vatsalsrivastava1209&layout=compact&theme=github_dark" />
-</p>
+## 📈 GitHub Stats
+
+![Vatsal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vatsalsrivastava1209&show_icons=true&theme=dark&hide_title=false&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vatsalsrivastava1209&layout=compact&theme=dark)
+
+
 
 ---
 
 ### 📫 Contact Me
 
 - Email: `12.vatsal9 [at] gmail [dot] com`
-- 
 - Twitter/X: https://x.com/Codat_V
+- 📬 Feel free to connect or drop a message — always open to new opportunities & collabs!
 
 ---
 
-*“The goal is to turn data into information, and information into insight.” — Carly Fiorina*
+> *“The goal is to turn data into information, and information into insight.”*  
+> — Carly Fiorina
+
 
