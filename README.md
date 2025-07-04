@@ -1,17 +1,14 @@
-<h1 align="center">👋 Hi, I'm Vatsal Srivastava</h1>
+<h1 align="center"> Hi, I'm Vatsal Srivastava</h1>
 <p align="center">
-  🚀 Aspiring Data Analyst • Python & SQL Enthusiast • Dashboard Builder 📊<br>
-  🧠 Learning fast. Building faster. 
+  📊 Data Analyst specializing in Python, SQL, and Power BI <br>
+  Turning raw data into actionable insights and compelling dashboards 
 </p>
 
 ---
 
 ### 🧑‍💻 About Me
 
-- 🎓 Budding data analyst exploring real-world problems through data
-- 💡 Passionate about uncovering insights using Python, SQL, Power BI, and Tableau
-- 📊 Strong interest in finance, marketing, and e-commerce analytics
-- ⚙️ Currently sharpening skills in Power BI and storytelling with data
+A data analyst with a passion for solving real-world business problems in finance, marketing, and e-commerce. My expertise lies in transforming complex datasets into clear narratives using Python (Pandas, Matplotlib), SQL, and interactive dashboards in Power BI & Tableau. I excel at data cleaning, exploratory data analysis, and presenting findings through effective data storytelling.
 
 ---
 
@@ -46,8 +43,8 @@
 ### 📫 Contact Me
 
 - Email: `12.vatsal9 [at] gmail [dot] com`
-- LinkedIn: [linkedin.com/in/yourname](#)
-- Twitter/X: [@vatsal_analyst](#) *(if you want to plug your X account)*
+- 
+- Twitter/X: https://x.com/Codat_V
 
 ---
 
