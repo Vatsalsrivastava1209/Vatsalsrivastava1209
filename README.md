@@ -43,7 +43,7 @@ Check out my full portfolio site for detailed projects, dashboards, and case stu
 | [Black Friday Sales Analysis](https://github.com/Vatsalsrivastava1209/Black-Friday-Sales-Analyzation-) | Exploratory analysis of retail data during BFCM | Seaborn, Jupyter |
 | [COVID-19 Dashboard](https://github.com/Vatsalsrivastava1209/covid-20-dasboard-visualization) | Visualizing pandemic data spread using dashboard tools | Plotly, Pandas |
 | [Heart Disease Visualization](https://github.com/Vatsalsrivastava1209/heart-disease-visualization-) | Visual patterns in heart disease dataset | Seaborn, Jupyter |
-| [Tableau Dashboard](https://github.com/Vatsalsrivastava1209/TableAU) | Data storytelling through Tableau visuals | Tableau |
+| [Superstore Visualization TableAu](https://github.com/Vatsalsrivastava1209/TableAU) | Data storytelling through Tableau visuals | Tableau |
 
 ---
 
