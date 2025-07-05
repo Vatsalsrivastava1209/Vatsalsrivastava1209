@@ -1,4 +1,4 @@
-<h1 align="center"> Hey there, I'm Vatsal </h1>
+<h1 align="center"> Hey there, I'm Vatsal| Data Analyst & BI Developer </h1>
 <p align="center">
   📊 Data Analyst specializing in Python, SQL, and Power BI <br>
   Turning raw data into actionable insights and compelling dashboards 
