@@ -49,8 +49,8 @@ Check out my full portfolio site for detailed projects, dashboards, and case stu
 ---
 
 ### 📈 GitHub Stats
-[Vatsal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vatsalsrivastava1209&show_icons=true&theme=dark&count_private=true)
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vatsalsrivastava1209&layout=compact&theme=dark)
+![Vatsal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vatsalsrivastava1209&show_icons=true&theme=dark&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vatsalsrivastava1209&layout=compact&theme=dark)
 ![GitHub Streak](https://streak-stats.demolab.com?user=Vatsalsrivastava1209&theme=dark)
 
 ---
