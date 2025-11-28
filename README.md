@@ -39,11 +39,11 @@ Check out my full portfolio site for detailed projects, dashboards, and case stu
 
 | 📁 Project | 💬 Description | 🛠️ Tools |
 |-----------|----------------|----------|
+| [Case Study: Investigating an Engagement Collapse After a Recommendation Model Update](https://github.com/Vatsalsrivastava1209/Investigating-an-Engagement-Collapse-After-a-Recommendation-Model-Update) | Visual patterns in heart disease dataset | Seaborn, Jupyter |
 | [E-Commerce-Customer-Behaviour-and-Sales-Insight-Dashboard](https://github.com/Vatsalsrivastava1209/E-Commerce-Customer-Behavior-and-Sales-Insights-Dashboard) | Analyzing trends, customer behavior & sales performance | Microsoft PowerBI |
 | [E-commerce Sales Analysis](https://github.com/Vatsalsrivastava1209/E-commerce-Sales-Analysis) | Analyzing trends, customer behavior & sales performance | Jupyter, Pandas, Matplotlib |
 | [Cold War Space Race Mission Analysis](https://github.com/Vatsalsrivastava1209/Space-Missions-Analysis) | Exploratory analysis of Space Race between US and USSR | Seaborn, Jupyter |
 | [COVID-19 Dashboard](https://github.com/Vatsalsrivastava1209/covid-20-dasboard-visualization) | Visualizing pandemic data spread using dashboard tools | Plotly, Pandas |
-| [Case Study: Investigating an Engagement Collapse After a Recommendation Model Update](https://github.com/Vatsalsrivastava1209/Investigating-an-Engagement-Collapse-After-a-Recommendation-Model-Update) | Visual patterns in heart disease dataset | Seaborn, Jupyter |
 | [Superstore Visualization TableAu](https://github.com/Vatsalsrivastava1209/TableAU) | Data storytelling through Tableau visuals | Tableau |
 
 ---
