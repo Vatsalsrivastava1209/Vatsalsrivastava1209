@@ -59,5 +59,4 @@ Check out my full portfolio site for detailed projects, dashboards, and case stu
 - Email: `12.vatsal9 [at] gmail [dot] com`
 - Twitter/X: https://x.com/Codat_V
 - 📬 Feel free to connect or drop a message — always open to new opportunities & collabs!
-
 ---
