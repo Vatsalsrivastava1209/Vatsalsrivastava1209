@@ -1,32 +1,32 @@
 <h1 align="center"> Hey there, I'm Vatsal | Data Analyst & BI Developer | </h1>
 <p align="center">
-  📊 Data Analyst specialized in Python, SQL,Power BI and TableAu <br>
+  Data Analyst specialized in Python, SQL,Power BI and TableAu <br>
   Turning raw data into actionable insights and compelling dashboards 
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+###  About Me
 
 A data analyst with a passion for solving real-world business problems in finance, marketing, and e-commerce. My expertise lies in transforming complex datasets into clear narratives using Python (Pandas, Matplotlib), SQL, and interactive dashboards in Power BI & Tableau. I excel at data cleaning, exploratory data analysis, and presenting findings through effective data storytelling.
 
 ---
 
-### 🧠 Currently Exploring
+###  Currently Exploring
 Power BI DAX, Marketing Analytics Case Studies, & Python Automation Projects.
 --- 
 
-### 🧰 Tech Stack
+###  Tech Stack
 **Languages & Tools:**
 
-- 🐍 Python (Pandas, NumPy, Matplotlib, Seaborn)
-- 🧮 SQL (MySQL, SQLite)
-- 📊 Power BI, Tableau
-- 📓 Jupyter Notebook
-- 📈 Plotly, Excel
+-  Python (Pandas, NumPy, Matplotlib, Seaborn)
+-  SQL (MySQL, SQLite)
+-  Power BI, Tableau
+-  Jupyter Notebook
+-  Plotly, Excel
 
 ---
-## 🌐 Portfolio Site
+##  Portfolio Site
 
 Check out my full portfolio site for detailed projects, dashboards, and case studies:
 
@@ -35,9 +35,9 @@ Check out my full portfolio site for detailed projects, dashboards, and case stu
 
 ---
 
-### 📂 Featured Projects
+###  Featured Projects
 
-| 📁 Project | 💬 Description | 🛠️ Tools |
+|  Project |  Description |  Tools |
 |-----------|----------------|----------|
 | [Case Study: Investigating an Engagement Collapse After a Recommendation Model Update](https://github.com/Vatsalsrivastava1209/Investigating-an-Engagement-Collapse-After-a-Recommendation-Model-Update) | Analyzed Drop in Engagement of a platoform | PowerBi, SQL, Jupyter, Seaborn |
 | [E-Commerce-Customer-Behaviour-and-Sales-Insight-Dashboard](https://github.com/Vatsalsrivastava1209/E-Commerce-Customer-Behavior-and-Sales-Insights-Dashboard) | Analyzing trends, customer behavior & sales performance | Microsoft PowerBI |
@@ -47,16 +47,16 @@ Check out my full portfolio site for detailed projects, dashboards, and case stu
 
 ---
 
-### 📈 GitHub Stats
+###  GitHub Stats
 ![Vatsal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vatsalsrivastava1209&show_icons=true&theme=dark&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vatsalsrivastava1209&layout=compact&theme=dark)
 ![GitHub Streak](https://streak-stats.demolab.com?user=Vatsalsrivastava1209&theme=dark)
 
 ---
 
-### 📫 Contact Me
+###  Contact Me
 
 - Email: `12.vatsal9 [at] gmail [dot] com`
 - Twitter/X: https://x.com/Codat_V
-- 📬 Feel free to connect or drop a message — always open to new opportunities & collabs!
+-  Feel free to connect or drop a message — always open to new opportunities & collabs!
 ---
