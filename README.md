@@ -39,6 +39,7 @@ Check out my full portfolio site for detailed projects, dashboards, and case stu
 
 |  Project |  Description |  Tools |
 |-----------|----------------|----------|
+| [Case Study: Aadhaar Identity Maintenance Risk Framework](https://github.com/Vatsalsrivastava1209/UIDAI-Maintenance-Framework) | Identified high-risk areas for biometric staleness and authentication failures | Pandas, Prophet, K-means, Jupyter  |
 | [Case Study: Investigating an Engagement Collapse After a Recommendation Model Update](https://github.com/Vatsalsrivastava1209/Investigating-an-Engagement-Collapse-After-a-Recommendation-Model-Update) | Analyzed Drop in Engagement of a platoform | PowerBi, SQL, Jupyter, Seaborn |
 | [E-Commerce-Customer-Behaviour-and-Sales-Insight-Dashboard](https://github.com/Vatsalsrivastava1209/E-Commerce-Customer-Behavior-and-Sales-Insights-Dashboard) | Analyzing trends, customer behavior & sales performance | Microsoft PowerBI |
 | [Cold War Space Race Mission Analysis](https://github.com/Vatsalsrivastava1209/Space-Missions-Analysis) | Exploratory analysis of Space Race between US and USSR | Seaborn, Jupyter |
