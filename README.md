@@ -42,7 +42,7 @@ Check out my full portfolio site for detailed projects, dashboards, and case stu
 | [Case Study: Aadhaar Identity Maintenance Risk Framework](https://github.com/Vatsalsrivastava1209/UIDAI-Maintenance-Framework) | Identified high-risk areas for biometric staleness and authentication failures | Pandas, Prophet, K-means, Jupyter  |
 | [Case Study: Investigating an Engagement Collapse After a Recommendation Model Update](https://github.com/Vatsalsrivastava1209/Investigating-an-Engagement-Collapse-After-a-Recommendation-Model-Update) | Analyzed Drop in Engagement of a platoform | PowerBi, SQL, Jupyter, Seaborn |
 | [E-Commerce-Customer-Behaviour-and-Sales-Insight-Dashboard](https://github.com/Vatsalsrivastava1209/E-Commerce-Customer-Behavior-and-Sales-Insights-Dashboard) | Analyzing trends, customer behavior & sales performance | Microsoft PowerBI |
-| [Cold War Space Race Mission Analysis](https://github.com/Vatsalsrivastava1209/Space-Missions-Analysis) | Exploratory analysis of Space Race between US and USSR | Seaborn, Jupyter |
+| [Ecommerce Profit Optimizer](https://github.com/Vatsalsrivastava1209/Ecommerce-Profit-Optimizer) | End-To-End DTC financial intelligence system | PostgreSql, PowerBi |
 | [COVID-19 Dashboard](https://github.com/Vatsalsrivastava1209/covid-20-dasboard-visualization) | Visualizing pandemic data spread using dashboard tools | Plotly, Pandas |
 | [Superstore Visualization TableAu](https://github.com/Vatsalsrivastava1209/TableAU) | Data storytelling through Tableau visuals | Tableau |
 
