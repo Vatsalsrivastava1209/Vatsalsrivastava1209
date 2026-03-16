@@ -1,6 +1,6 @@
 <h1 align="center"> Hey there, I'm Vatsal | Data Analyst & BI Developer | </h1>
 <p align="center">
-  Data Analyst specialized in Python, SQL,Power BI and TableAu <br>
+  Data Analyst specialized in Python, SQL, Statistics, Power BI, TableAu and Predictive Tools <br>
   Turning raw data into actionable insights and compelling dashboards 
 </p>
 
@@ -59,5 +59,5 @@ Check out my full portfolio site for detailed projects, dashboards, and case stu
 
 - Email: `12.vatsal9 [at] gmail [dot] com`
 - Twitter/X: https://x.com/Codat_V
--  Feel free to connect or drop a message — always open to new opportunities & collabs!
+- Feel free to connect or drop a message - open to new opportunities & collabs!
 ---
