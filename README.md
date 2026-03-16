@@ -1,7 +1,6 @@
 <h1 align="center"> Hey there, I'm Vatsal | Data Analyst & BI Developer | </h1>
 <p align="center">
-  <h3> Data Analyst specialized in Python, SQL, Statistics, Power BI, TableAu and Predictive Tools </h3> <br>
-  Turning raw data into actionable insights and compelling dashboards 
+  Data Analyst specialized in Python, SQL, Statistics, Power BI, TableAu and Predictive Tools  <br>
 </p>
 
 ---
