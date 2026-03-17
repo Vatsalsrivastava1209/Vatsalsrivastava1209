@@ -19,8 +19,9 @@ Power BI DAX, Marketing Analytics Case Studies, & Python Automation Projects.
 **Languages & Tools:**
 
 -  Python (Pandas, NumPy, Matplotlib, Seaborn)
--  SQL (MySQL, SQLite)
+-  SQL (PostgreSql, MySQL)
 -  Power BI, Tableau
+-  Predictive Models ( Linear, Logistics Regression , K means , Decision Tree) 
 -  Jupyter Notebook
 -  Plotly, Excel
 
