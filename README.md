@@ -30,7 +30,7 @@ Power BI DAX, Marketing Analytics Case Studies, & Python Automation Projects.
 
 Check out my full portfolio site for detailed projects, dashboards, and case studies:
 
-🔗 [Portfolio Site](https://vatsaldata.netlify.app/)
+🔗 [Portfolio Site](https://vatsals.netlify.app/)
 
 
 ---
