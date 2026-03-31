@@ -12,7 +12,7 @@ A data analyst with a passion for solving real-world business problems in financ
 ---
 
 ###  Currently Exploring
-Power BI DAX, Marketing Analytics Case Studies, & Python Automation Projects.
+Machine Learning Models, Power BI DAX, Marketing Analytics Case Studies, & Python Automation Projects.
 --- 
 
 ###  Tech Stack
