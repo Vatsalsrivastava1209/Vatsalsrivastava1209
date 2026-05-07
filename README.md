@@ -14,7 +14,7 @@ Open to product/growth analyst roles and selective freelance work with D2C and S
 ---
 
 ###  Currently Exploring
-Machine Learning Models, Power BI DAX, Marketing Analytics Case Studies, & Python Automation Projects.
+Experimentation design and causal inference, retention & cohort analysis, and LLM-powered analytics tooling — building metric-sleuth to automate root-cause analysis on business metrics.
 --- 
 
 ###  Tech Stack
