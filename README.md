@@ -1,6 +1,6 @@
 <h1 align="center"> Hey there, I'm Vatsal | Product / Growth Analyst | </h1>
 <p align="center">
-  Specialized in Python, SQL, Statistics, Power BI, TableAu and Predictive Models  <br>
+  Specialized in Python, SQL, Statistics, Power BI, TableAU and Predictive Models  <br>
 </p>
 
 ---
@@ -19,9 +19,9 @@ Machine Learning Models, Power BI DAX, Marketing Analytics Case Studies, & Pytho
 **Languages & Tools:**
 
 -  Python (Pandas, NumPy, Matplotlib, Seaborn)
--  SQL (PostgreSql, MySQL)
+-  SQL (PostgreSQL, MySQL)
 -  Power BI, Tableau
--  Predictive Models ( Linear, Logistics Regression , K means , Decision Tree) 
+-  Predictive Models ( Linear, Logistic Regression , K means , Decision Tree) 
 -  Jupyter Notebook
 -  Plotly, Excel
 
