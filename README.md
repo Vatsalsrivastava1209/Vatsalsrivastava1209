@@ -7,7 +7,7 @@
 
 ###  About Me
 
-A data analyst with a passion for solving real-world business problems in finance, marketing, and e-commerce. My expertise lies in transforming complex datasets into clear narratives using Python (Pandas, Matplotlib), SQL, and interactive dashboards in Power BI & Tableau. I excel at data cleaning, exploratory data analysis, and presenting findings through effective data storytelling.
+A Product/Growth analyst with a passion for solving real-world business problems in finance, marketing, and e-commerce. My expertise lies in transforming complex datasets into clear narratives using Python (Pandas, Matplotlib), SQL, and interactive dashboards in Power BI & Tableau. I excel at data cleaning, exploratory data analysis, and presenting findings through effective data storytelling.
 
 ---
 
