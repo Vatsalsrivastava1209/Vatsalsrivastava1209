@@ -7,7 +7,9 @@
 
 ###  About Me
 
-A Product/Growth analyst with a passion for solving real-world business problems in finance, marketing, and e-commerce. My expertise lies in transforming complex datasets into clear narratives using Python (Pandas, Matplotlib), SQL, and interactive dashboards in Power BI & Tableau. I excel at data cleaning, exploratory data analysis, and presenting findings through effective data storytelling.
+I'm a Product & Growth Analyst who likes the questions most teams avoid: Why did activation drop last week? Where is the funnel actually leaking? Is this lift real or just noise?
+I work across the full analyst stack — SQL and Python for the digging, Power BI and Tableau for the storytelling, and statistics + experimentation for the answers that hold up under scrutiny. Lately I've been building AI-powered analytics tools (see metric-sleuth) because I think the next generation of analysts ship software, not just slides.
+Open to product/growth analyst roles and selective freelance work with D2C and SaaS teams.
 
 ---
 
