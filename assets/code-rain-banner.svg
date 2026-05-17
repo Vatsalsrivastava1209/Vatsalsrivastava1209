@@ -1,0 +1,58 @@
+<svg width="1200" height="135" viewBox="0 0 1200 135" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bannerBg" x1="0" y1="0" x2="1200" y2="135" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#090B10"/>
+      <stop offset="0.45" stop-color="#1B2140"/>
+      <stop offset="0.75" stop-color="#5B21B6"/>
+      <stop offset="1" stop-color="#00E5FF"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-40%" width="140%" height="180%">
+      <feGaussianBlur stdDeviation="1.2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="fade" x1="0" y1="0" x2="0" y2="135" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="white" stop-opacity="0"/>
+      <stop offset="0.18" stop-color="white" stop-opacity="1"/>
+      <stop offset="0.82" stop-color="white" stop-opacity="1"/>
+      <stop offset="1" stop-color="white" stop-opacity="0"/>
+    </linearGradient>
+    <mask id="verticalFade">
+      <rect width="1200" height="135" fill="url(#fade)"/>
+    </mask>
+    <clipPath id="waveClip">
+      <path d="M0 0H1200V92C1110 124 1010 139 900 127C787 115 708 78 598 84C482 91 406 133 286 132C174 131 83 102 0 119V0Z"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#waveClip)">
+    <rect width="1200" height="135" fill="url(#bannerBg)"/>
+    <path d="M0 92C102 115 198 121 306 106C430 89 503 55 626 64C745 72 831 116 960 112C1057 109 1134 88 1200 65V135H0V92Z" fill="#050711" opacity="0.33"/>
+    <path d="M0 112C110 88 202 124 320 124C438 124 506 84 626 78C747 71 828 111 942 124C1048 136 1136 120 1200 95" stroke="#00E5FF" stroke-width="2" opacity="0.48"/>
+
+    <g mask="url(#verticalFade)" font-family="Consolas, Monaco, 'Courier New', monospace" font-size="15" font-weight="600" filter="url(#glow)">
+      <g fill="#00E5FF" opacity="0.86">
+        <animateTransform attributeName="transform" type="translate" values="0 -180;0 160" dur="6.4s" repeatCount="indefinite"/>
+        <text x="38" y="0">SELECT *</text><text x="38" y="30">p &lt; 0.05</text><text x="38" y="60">E = mc^2</text><text x="38" y="90">df['ret']</text><text x="38" y="120">F = m*a</text><text x="38" y="150">beta_1</text><text x="38" y="180">GROUP BY</text><text x="38" y="210">cohort()</text><text x="38" y="240">A/B test</text><text x="38" y="270">sigma^2</text><text x="38" y="300">y_hat</text>
+      </g>
+      <g fill="#FF2E63" opacity="0.78">
+        <animateTransform attributeName="transform" type="translate" values="0 -135;0 205" dur="7.8s" begin="-1.4s" repeatCount="indefinite"/>
+        <text x="210" y="0">d/dx</text><text x="210" y="30">root_cause</text><text x="210" y="60">PV = nRT</text><text x="210" y="90">log_loss</text><text x="210" y="120">ARR</text><text x="210" y="150">curl data</text><text x="210" y="180">theta</text><text x="210" y="210">gravity=9.8</text><text x="210" y="240">SQL</text><text x="210" y="270">chi_sq</text>
+      </g>
+      <g fill="#C9D1D9" opacity="0.76">
+        <animateTransform attributeName="transform" type="translate" values="0 -215;0 125" dur="6.9s" begin="-3.2s" repeatCount="indefinite"/>
+        <text x="420" y="0">for row in df:</text><text x="420" y="30">retention</text><text x="420" y="60">a^2+b^2=c^2</text><text x="420" y="90">confidence</text><text x="420" y="120">P(A|B)</text><text x="420" y="150">WHERE event</text><text x="420" y="180">metric_sleuth</text><text x="420" y="210">velocity</text><text x="420" y="240">sample_size</text><text x="420" y="270">import pandas</text>
+      </g>
+      <g fill="#B794F6" opacity="0.84">
+        <animateTransform attributeName="transform" type="translate" values="0 -165;0 175" dur="5.8s" begin="-.8s" repeatCount="indefinite"/>
+        <text x="690" y="0">grad = 0</text><text x="690" y="30">SELECT user_id</text><text x="690" y="60">force()</text><text x="690" y="90">R^2</text><text x="690" y="120">activation</text><text x="690" y="150">lambda</text><text x="690" y="180">run_model()</text><text x="690" y="210">entropy</text><text x="690" y="240">N = 10k</text><text x="690" y="270">cohort_id</text>
+      </g>
+      <g fill="#00E5FF" opacity="0.72">
+        <animateTransform attributeName="transform" type="translate" values="0 -110;0 230" dur="8.6s" begin="-4.1s" repeatCount="indefinite"/>
+        <text x="940" y="0">if anomaly:</text><text x="940" y="30">alert()</text><text x="940" y="60">p-value</text><text x="940" y="90">orbit</text><text x="940" y="120">JOIN users</text><text x="940" y="150">CLV</text><text x="940" y="180">regression</text><text x="940" y="210">signal</text><text x="940" y="240">variance</text><text x="940" y="270">friction</text>
+      </g>
+    </g>
+  </g>
+</svg>
