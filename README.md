@@ -8,6 +8,10 @@
 </p>
 
 <p align="center">
+  <img width="520" src="https://raw.githubusercontent.com/Vatsalsrivastava1209/Vatsalsrivastava1209/main/assets/analytics-operator.svg" alt="Animated sci-fi analytics operator" />
+</p>
+
+<p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00E5FF,50:7C3AED,100:FF2E63" />
 </p>
 
