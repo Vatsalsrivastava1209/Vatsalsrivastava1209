@@ -65,17 +65,6 @@ Check out my full portfolio site for detailed projects, dashboards, and case stu
 | [Superstore Visualization TableAu](https://github.com/Vatsalsrivastava1209/TableAU) | Data storytelling through Tableau visuals | Tableau |
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:FF2E63,50:7C3AED,100:00E5FF" />
-</p>
-
-###  GitHub Stats
-<p align="center">
-  <img alt="Vatsal's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Vatsalsrivastava1209&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=FF2E63&text_color=C9D1D9&border_radius=8" />
-  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vatsalsrivastava1209&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9&border_radius=8" />
-  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=Vatsalsrivastava1209&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=FF2E63&currStreakLabel=00E5FF&sideLabels=C9D1D9&dates=8B949E&border_radius=8" />
-</p>
-
-<p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00E5FF,50:7C3AED,100:FF2E63" />
 </p>
 
