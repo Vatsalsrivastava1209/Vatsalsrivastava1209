@@ -1,14 +1,10 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=135&color=0:090B10,45:1B2140,75:5B21B6,100:00E5FF&section=header" />
+  <img width="100%" src="https://raw.githubusercontent.com/Vatsalsrivastava1209/Vatsalsrivastava1209/main/assets/code-rain-banner.svg" alt="Animated code rain banner" />
 </p>
 
 <h1 align="center"> Hey there, I'm Vatsal | Product / Growth Analyst | </h1>
 <p align="center">
   Specialized in Python, SQL, Statistics, Power BI, TableAU and Predictive Models  <br>
-</p>
-
-<p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/Vatsalsrivastava1209/Vatsalsrivastava1209/main/assets/code-rain.svg" alt="Animated vertical code, math, and physics rain" />
 </p>
 
 <p align="center">
