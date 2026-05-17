@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img width="520" src="https://raw.githubusercontent.com/Vatsalsrivastava1209/Vatsalsrivastava1209/main/assets/analytics-operator.svg" alt="Animated sci-fi analytics operator" />
+  <img width="760" src="https://raw.githubusercontent.com/Vatsalsrivastava1209/Vatsalsrivastava1209/main/assets/code-rain.svg" alt="Animated vertical code, math, and physics rain" />
 </p>
 
 <p align="center">
