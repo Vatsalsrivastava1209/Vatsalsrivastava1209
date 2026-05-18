@@ -2,88 +2,76 @@
   <img width="100%" src="https://raw.githubusercontent.com/Vatsalsrivastava1209/Vatsalsrivastava1209/main/assets/code-rain-banner.svg" alt="Animated code rain banner" />
 </p>
 
-<h1 align="center"> Hey there, I'm Vatsal | Product / Growth Analyst | </h1>
+<h1 align="center">Vatsal Srivastava</h1>
+<h3 align="center">Product/Growth Analyst | SQL, Python, BI, Experimentation, AI Analytics Automation</h3>
+
 <p align="center">
-  Specialized in Python, SQL, Statistics, Power BI, TableAU and Predictive Models  <br>
+  I investigate why business metrics move, identify the customer/funnel segments causing it, and turn the analysis into clear product and growth decisions.
+</p>
+
+<p align="center">
+  <a href="https://vatsals.netlify.app/">Portfolio</a> | 
+  <a href="https://www.linkedin.com/in/vatsal-srivastava-440417260">LinkedIn</a> | 
+  <a href="mailto:12.vatsal9@gmail.com">Email</a>
 </p>
 
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00E5FF,50:7C3AED,100:FF2E63" />
 </p>
 
-###  About Me
+## About Me
 
-I'm a Product & Growth Analyst who likes the questions most teams avoid: Why did activation drop last week? Where is the funnel actually leaking? Is this lift real or just noise?
-I work across the full analyst stack — SQL and Python for the digging, Power BI and Tableau for the storytelling, and statistics + experimentation for the answers that hold up under scrutiny. Lately I've been building AI-powered analytics tools (see metric-sleuth) because I think the next generation of analysts ship software, not just slides.
-Open to product/growth analyst roles and selective freelance work with D2C and SaaS teams.
+I am a Product and Growth Analyst focused on KPI diagnosis, funnel/customer analysis, A/B testing, anomaly detection, dashboarding, and LLM-assisted analytics workflows.
+
+My strongest work sits at the intersection of analytics and product thinking: SQL and Python for investigation, Power BI/Tableau for decision-ready reporting, statistics for evidence, and AI tools for faster analytics workflows. I am currently targeting global remote Product Analyst, Growth Analyst, Marketing/Data Analyst, BI Analyst, and AI Data Analyst roles.
+
+## What I Can Help Teams With
+
+- Diagnose revenue, engagement, conversion, retention, and customer behavior changes.
+- Build SQL/Python analysis workflows for messy business and product data.
+- Design BI dashboards that answer business questions, not just display charts.
+- Support A/B testing, segmentation, cohort analysis, and anomaly detection.
+- Use LLMs responsibly to automate summaries, briefs, and recurring analytics reporting.
+
+## Tech Stack
+
+- Python: Pandas, NumPy, Matplotlib, Seaborn, Plotly
+- SQL: PostgreSQL, MySQL, SQLite, CTEs, joins, window functions
+- BI: Power BI, Tableau, Excel, DAX, Power Query
+- Analytics: A/B testing, segmentation, forecasting, anomaly detection, root-cause analysis
+- AI Analytics: LLM-assisted reporting, analytics agents, evaluation workflows
 
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:FF2E63,50:7C3AED,100:00E5FF" />
 </p>
 
-###  Currently Exploring
-Experimentation design and causal inference, retention & cohort analysis, and LLM-powered analytics tooling — building metric-sleuth to automate root-cause analysis on business metrics.
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00E5FF,50:7C3AED,100:FF2E63" />
-</p>
+## Featured Proof Projects
 
-###  Tech Stack
-**Languages & Tools:**
+| Project | Business Problem | What It Shows |
+| --- | --- | --- |
+| [Metric Sleuth](https://github.com/Vatsalsrivastava1209/metric-sleuth) | E-commerce and growth teams need to detect KPI anomalies, find likely drivers, and send client-ready summaries quickly. | AI-assisted root-cause analysis, anomaly detection, product thinking, analytics automation. |
+| [Engagement Collapse RCA](https://github.com/Vatsalsrivastava1209/Investigating-an-Engagement-Collapse-After-a-Recommendation-Model-Update) | Watch time dropped 17% after a recommendation model update. | SQL/Python investigation, segmentation, hypothesis testing, business impact sizing. |
+| [Scientific A/B Testing Pipeline](https://github.com/Vatsalsrivastava1209/Scientific-A-B-Testing-for-Your-DS-ML-Creator-Account) | Teams need to know whether observed product/growth lift is real or noise. | Power analysis, sample sizing, frequentist/Bayesian testing, sequential testing. |
+| [E-commerce Customer Behavior Dashboard](https://github.com/Vatsalsrivastava1209/E-Commerce-Customer-Behavior-and-Sales-Insights-Dashboard) | Stakeholders needed sales and customer behavior visibility across markets. | Power BI, DAX, customer segmentation, revenue analysis, business recommendations. |
 
--  Python (Pandas, NumPy, Matplotlib, Seaborn)
--  SQL (PostgreSQL, MySQL)
--  Power BI, Tableau
--  Predictive Models ( Linear, Logistic Regression , K means , Decision Tree) 
--  Jupyter Notebook
--  Plotly, Excel
+## Portfolio
+
+See the full portfolio for detailed projects, dashboards, and case studies:
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:FF2E63,50:7C3AED,100:00E5FF" />
-</p>
-
-##  Portfolio Site
-
-Check out my full portfolio site for detailed projects, dashboards, and case studies:
-
-<p align="center">
-  <a href="https://vatsals.netlify.app/">🔗 Portfolio Site</a>
+  <a href="https://vatsals.netlify.app/">https://vatsals.netlify.app/</a>
 </p>
 
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00E5FF,50:7C3AED,100:FF2E63" />
 </p>
 
-###  Featured Projects
-
-|  Project |  Description |  Tools |
-|-----------|----------------|----------|
-| [Case Study: Aadhaar Identity Maintenance Risk Framework](https://github.com/Vatsalsrivastava1209/UIDAI-Maintenance-Framework) | Identified high-risk areas for biometric staleness and authentication failures | Pandas, Prophet, K-means, Jupyter  |
-| [Case Study: Investigating an Engagement Collapse After a Recommendation Model Update](https://github.com/Vatsalsrivastava1209/Investigating-an-Engagement-Collapse-After-a-Recommendation-Model-Update) | Analyzed Drop in Engagement of a platform | PowerBi, SQL, Jupyter, Seaborn |
-| [E-Commerce-Customer-Behaviour-and-Sales-Insight-Dashboard](https://github.com/Vatsalsrivastava1209/E-Commerce-Customer-Behavior-and-Sales-Insights-Dashboard) | Analyzing trends, customer behavior & sales performance | Microsoft PowerBI |
-| [Ecommerce Profit Optimizer](https://github.com/Vatsalsrivastava1209/Ecommerce-Profit-Optimizer) | End-To-End DTC financial intelligence system | PostgreSql, PowerBi |
-| [COVID-19 Dashboard](https://github.com/Vatsalsrivastava1209/covid-20-dasboard-visualization) | Visualizing pandemic data spread using dashboard tools | Plotly, Pandas |
-| [Superstore Visualization TableAu](https://github.com/Vatsalsrivastava1209/TableAU) | Data storytelling through Tableau visuals | Tableau |
-
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:FF2E63,50:7C3AED,100:00E5FF" />
-</p>
-
-###  GitHub Stats
-<p align="center">
-  <img alt="Vatsal's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Vatsalsrivastava1209&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=FF2E63&text_color=C9D1D9&border_radius=8" />
-  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=Vatsalsrivastava1209&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=FF2E63&currStreakLabel=00E5FF&sideLabels=C9D1D9&dates=8B949E&border_radius=8" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00E5FF,50:7C3AED,100:FF2E63" />
-</p>
-
-###  Contact Me
+## Contact
 
 - Email: `12.vatsal9 [at] gmail [dot] com`
-- Twitter/X: https://x.com/Codat_V
-- Feel free to connect or drop a message - open to new opportunities & collabs!
+- LinkedIn: https://www.linkedin.com/in/vatsal-srivastava-440417260
+- X/Twitter: https://x.com/Codat_V
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:00E5FF,35:5B21B6,70:1B2140,100:090B10&section=footer" />
+  <img alt="Vatsal's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Vatsalsrivastava1209&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=FF2E63&text_color=C9D1D9&border_radius=8" />
 </p>
