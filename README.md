@@ -10,8 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://vatsals.netlify.app/">Portfolio</a> | 
-  <a href="https://www.linkedin.com/in/vatsal-srivastava-440417260">LinkedIn</a> | 
+  <a href="https://vatsals.netlify.app/">Portfolio</a> |
   <a href="mailto:12.vatsal9@gmail.com">Email</a>
 </p>
 
