@@ -48,7 +48,7 @@ My strongest work sits at the intersection of analytics and product thinking: SQ
 
 | Project | Business Problem | What It Shows |
 | --- | --- | --- |
-| [Metric Sleuth](https://github.com/Vatsalsrivastava1209/metric-sleuth) | E-commerce and growth teams need to detect KPI anomalies, find likely drivers, and send client-ready summaries quickly. | AI-assisted root-cause analysis, anomaly detection, product thinking, analytics automation. |
+| [Metric Sleuth](https://github.com/Vatsalsrivastava1209/metric-sleuth) | Automated KPI anomaly detection and root-cause analysis for e-commerce teams using statistical analysis and LLM-assisted reporting. | AI-assisted root-cause analysis, anomaly detection, product thinking, analytics automation. |
 | [Engagement Collapse RCA](https://github.com/Vatsalsrivastava1209/Investigating-an-Engagement-Collapse-After-a-Recommendation-Model-Update) | Diagnosing a 26% engagement decline after a recommendation-model rollout | SQL-first RCA, affected vs unaffected comparison, funnel analysis, anomaly detection, impact sizing, rollback/canary recommendation. |
 | [Creator Experimentation Toolkit](https://github.com/Vatsalsrivastava1209/Scientific-A-B-Testing-for-Your-DS-ML-Creator-Account) | A reproducible A/B-testing pipeline for creator engagement | 34-day stratified experiment design, data validation, Welch/Mann-Whitney tests, bootstrap CIs, decision rules, CLI reports, Streamlit dashboard. |
 | [E-commerce Customer Analytics](https://github.com/Vatsalsrivastava1209/E-Commerce-Customer-Behavior-and-Sales-Insights-Dashboard) | Stakeholders needed sales and customer behavior visibility across markets. | Power BI, DAX, customer segmentation, revenue analysis, business recommendations. |
