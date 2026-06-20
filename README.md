@@ -71,6 +71,8 @@ See the full portfolio for detailed projects, dashboards, and case studies:
 - LinkedIn: https://www.linkedin.com/in/vatsal-srivastava-440417260
 - X/Twitter: https://x.com/Codat_V
 
+<!--
 <p align="center">
   <img alt="Vatsal's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Vatsalsrivastava1209&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=FF2E63&text_color=C9D1D9&border_radius=8" />
 </p>
+-->
